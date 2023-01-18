@@ -1,4 +1,4 @@
-# Hi 👋 I'm Nathan and I am a developer
+# Hi 👋 I'm Nathan & I am a developer
 ## About me
 **Thanks for stopping by!**
 
