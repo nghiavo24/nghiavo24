@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nathan and I am a full-stack developer
 ## About me
-**Thanks for stopping by!**
+**Thanks for stopping by**
 
 - 💙 I love full-stack web dev 💻
 - 🌱 I’m currently taking a deep dive into Python.
