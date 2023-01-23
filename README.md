@@ -5,7 +5,7 @@
 - 💙 I love full-stack web dev 💻
 - 🌱 I’m currently taking a deep dive into Python.
 - 💞️ I’m looking to collaborate on all full-stack app, front-end or back-end development.
-- 📫 How to reach me ... by email: nghia.vo1452@gmail.com or my Linkedin: https://www.linkedin.com/in/nghia-vo/
+- 📫 How to reach me by: [![Nathan's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nghia.vo1452@gmail.com) or [![Nathan's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nghia-vo/)
 
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/114704720/212812961-c244a5d0-148c-4f3d-98dd-da2ed1987ede.png)
 
