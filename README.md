@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there 👋 !
 **Thank for stopping by!
 I'm Nathan & I am a full-stack developer and life-long learner**
 
@@ -17,7 +17,7 @@ I'm Nathan & I am a full-stack developer and life-long learner**
 
 ## My Github's Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiavo24&theme=monokai&show_icons=true)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiavo24&theme=monokai&show_icons=true)
 
 ## 📫 Connect with me
 
