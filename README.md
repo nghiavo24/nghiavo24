@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋!
 **Thank for stopping by
 I'm Nathan & I am a full-stack developer and life-long learner**
 
